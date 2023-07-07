@@ -1,3 +1,3 @@
 #python 3
 
-rint("hello")
+print("hello")
