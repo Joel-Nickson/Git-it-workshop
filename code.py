@@ -1,3 +1,3 @@
-#python 2
+#python 3
 
-print "hello"
+rint("hello")
